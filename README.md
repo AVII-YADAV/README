@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **WEB DESIGINING**
 
-- 🌱 I’m currently learning **JAVA PYTHON ETHICAL HACKING**
+- 🌱 I’m currently learning **JAVA #DSA #WEB-DEVELOPMENT**
 
-- 💬 Ask me about **HACKING**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
